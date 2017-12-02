@@ -1,0 +1,2 @@
+E:\KPI 3\Translyator\Freel\Freel\obj\Release\App.g.cs
+E:\KPI 3\Translyator\Freel\Freel\obj\Release\Freel_MarkupCompile.cache
